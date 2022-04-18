@@ -25,5 +25,4 @@ African Women Innovation Hackathon submission for Team Muthoni
 
 
 ## YouTube Video Link ##
-- https://youtu.be/OVLPwDbyaY0
-
+- https://www.youtube.com/watch?v=CuH_JepGQg8
