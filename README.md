@@ -8,6 +8,10 @@ African Women Innovation Hackathon submission for Team Muthoni
 - Wanjiru Wangondu
 
 
+## Tech Stack Used ##
+- Figma (wasn't given in the project details options)
+
+
 ## Figma Prototype Link ##
 - https://www.figma.com/proto/rj5FZzLHsUYHkgiaIqtM5Z/Linda-App-Prototype?node-id=0%3A1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A12&show-proto-sidebar=1
 
