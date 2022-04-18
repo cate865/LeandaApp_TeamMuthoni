@@ -13,7 +13,7 @@ African Women Innovation Hackathon submission for Team Muthoni
 
 
 ## Project Description  Document ##
-- 
+- https://docs.google.com/document/d/1AGnm4oAPAl8m3nD_CvvgtQxy3qyL-kSA9nf3ZemanyQ/edit?usp=sharing
 
 
 ## Presentation Slide Deck Link ##
