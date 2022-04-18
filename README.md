@@ -17,7 +17,7 @@ African Women Innovation Hackathon submission for Team Muthoni
 
 
 ## Presentation Slide Deck Link ##
-- 
+- https://docs.google.com/presentation/d/1bM_fUT2X_NbiyIJ7Ok_5OrGuR1N_TqQUNpn52k46ka8/edit#slide=id.ga26e00b28b_0_836
 
 
 ## YouTube Video Link ##
